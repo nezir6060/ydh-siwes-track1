@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-image:url(background.jpg);
+color: rgb(191, 109, 109);
+font-size:1.7rem;
+font-weight: 700;
+
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+    font-style: none;
+}
+ul a{
+
+    font-style: none;
+    text-decoration: none;
+}
+
